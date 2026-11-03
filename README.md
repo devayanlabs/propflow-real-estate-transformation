@@ -1,10 +1,10 @@
-# Northstar CRM Implementation and Business Process Transformation
+# PropFlow Real Estate Business Process Transformation and Property Management System
 
 > **Portfolio simulation:** This is a fictional consulting engagement created for learning and portfolio demonstration. It is not work performed for a real client. All names, organisations and datasets are fictional or synthetic.
 
 ## Project overview
 
-A simulated consulting engagement for a B2B technology consulting company. The project investigates sales-process problems and designs a CRM-enabled operating model.
+A simulated consulting engagement for a real estate operator. The project analyses enquiry handling, property availability, bookings, leasing, rent collection and maintenance workflows.
 
 ## Objectives
 
